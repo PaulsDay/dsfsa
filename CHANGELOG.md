@@ -5,3 +5,4 @@ Improve performance [k0voJF] line 4.1
 Improve performance [k0voJF] line 4.2
 Improve performance [k0voJF] line 4.3
 Refactor codebase with Z [wiNQla] line 6.1
+Update documentation [K9boRZ] line 10.1
