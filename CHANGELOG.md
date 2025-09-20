@@ -6,3 +6,4 @@ Improve performance [k0voJF] line 4.2
 Improve performance [k0voJF] line 4.3
 Refactor codebase with Z [wiNQla] line 6.1
 Update documentation [K9boRZ] line 10.1
+Add test case for W [bK6o78] line 11.1
