@@ -9,3 +9,4 @@ Update documentation [K9boRZ] line 10.1
 Add test case for W [bK6o78] line 11.1
 Fix issue in Y [nhq3XX] line 12.3
 Add feature for X [N1hwmC] line 13.1
+Improve performance [CrkzfR] line 14.2
